@@ -1,0 +1,60 @@
+Accensione a 20°: 0x8800549 
+Spegnimento a 20°: 0x88C0051
+Accensione a 18°: 0x8800347
+Spegnimento a 18°: 0x88C0051
+
+Da 18° aumento fino a 22°:0x8808440,0x8808541,0x8808642,0x8808743
+Da 22° aumento fino a 18°: 0x8808642,0x8808541, 0x8808440, 0x880834F
+Da 20 a 26: 0x8808642 0x8808743 0x8808844 0x8808945 0x8808A46 0x8808B47
+
+Passaggio di modalità da feddo a faccina a deumidificatore a caldo a freddo: 0x880B252, 0x8809801,0x880CF4F, 0x8808541
+
+In deumidificazione: aumentare la ventola da 1 a 2 a 3 a freccia a 1: 0x8809823, 0x8809845,0x8809856, 0x8809801 
+
+Gradi a 18
+Ventola al minimo: 0x880830B
+Ventola al metà: 0x880832D
+Ventola al max: 0x880834F
+Ventola al freccia: 0x8808350
+
+Gradi a 19
+Ventola al minimo: 0x880840C
+Ventola al metà: 0x880842E
+Ventola al max: 0x8808440
+Ventola al freccia: 0x8808451
+
+Gradi a 20
+Ventola al minimo: 0x880850D
+Ventola al metà: 0x880852F 
+Ventola al max: 0x8808541 
+Ventola al freccia: 0x8808552 
+
+Gradi a 21
+Ventola al minimo: 0x880860E
+Ventola al metà: 0x8808620
+Ventola al max: 0x8808642
+Ventola al freccia: 0x8808653
+
+Gradi a 22
+Ventola al minimo: 0x880870F
+Ventola al metà: 0x8808721
+Ventola al max: 0x8808743
+Ventola al freccia: 0x8808754
+
+Gradi a 23
+Ventola al minimo: 0x8808800
+Ventola al metà: 0x8808822
+Ventola al max: 0x8808844
+Ventola al freccia: 0x8808855
+
+Gradi a 24
+Ventola al minimo: 0x8808901
+Ventola al metà: 0x8808923
+Ventola al max: 0x8808945
+Ventola al freccia: 0x8808956
+
+Gradi a 25
+Ventola al minimo: 0x8808A02
+Ventola al metà: 0x8808A24
+Ventola al max: 0x8808A46
+Ventola al freccia: 0x8808A57
